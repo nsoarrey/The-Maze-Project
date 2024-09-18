@@ -30,4 +30,4 @@ $ gcc -Wall -Werror -Wextra -pedantic ./src/*.c -lm -o maze `sdl2-config --cflag
 
 ## Author :black_nib:
 
-- **Leo Azubuike** <[Zubby](https://github.com/Azubuikeleo13)>
+- **Nso Arrey** (https://github.com/nsoarrey)>
